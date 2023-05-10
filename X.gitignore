@@ -1,0 +1,49 @@
+# Jekyll build output
+_site/
+
+# Added by vim
+.sass-cache
+vendor
+
+
+# Ignore the Jekyll cache directory
+.jekyll-cache/
+
+# Ignore the Jekyll metadata file
+.jekyll-metadata
+
+# Ignore the Gemfile.lock file, as it should be generated locally
+Gemfile.lock
+
+# Ignore any local development configuration files
+_config.yml
+
+# Ignore any local build artifacts or temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.sass-cache/
+
+# Ignore any compiled assets or binary files
+*.css.map
+*.js.map
+*.min.css
+*.min.js
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.svg
+*.ico
+*.webp
+*.woff
+*.woff2
+*.eot
+*.ttf
+*.otf
+*.pdf
+*.zip
+*.gz
+
